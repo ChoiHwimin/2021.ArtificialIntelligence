@@ -1,9 +1,14 @@
 https://www.kaggle.com/competitions/sejonguniai-12312312
 
 
-# 목표
+# 프로젝트
 공공데이터를 활용하여 사회적문제를 해결하는 것을 목표로 합니다.
+
+
 복수의 공공데이터를 직접 가공하여 사용하였습니다.
+
+
+Kaggle Competition을 직접 제작하였습니다.
 
 
 # 주제
