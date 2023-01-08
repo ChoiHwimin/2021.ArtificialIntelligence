@@ -1,3 +1,5 @@
+https://www.kaggle.com/competitions/sejonguniai-12312312
+
 
 # 목표
 공공데이터를 활용하여 사회적문제를 해결하는 것을 목표로 합니다.
